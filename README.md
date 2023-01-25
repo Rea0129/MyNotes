@@ -1,7 +1,6 @@
-
 # My Notes
 
-This is where I'm learning
+This is intial stub
 
 ## Getting setup
 
@@ -16,9 +15,4 @@ This is where I'm learning
 
 
 ### Python
-
-=======
-# MyNotes
-
-fill in here...
 
